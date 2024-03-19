@@ -1,0 +1,19 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Famílias",
+      "imagem": "https://dfilitto.blog.br/wp-content/uploads/2020/03/logo-normal.png"
+    },
+    {
+      "id": 2,
+      "nome": "Números",
+      "imagem": "https://dfilitto.blog.br/wp-content/uploads/2020/03/logo-normal.png"
+    },
+    {
+      "id": "7d5d",
+      "nome": "Teste",
+      "imagem": "https://dfilitto.blog.br/wp-content/uploads/2020/03/logo-normal.png"
+    }
+  ]
+}
