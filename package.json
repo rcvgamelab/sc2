@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "json-server --watch db.json",
+=======
+>>>>>>> 004c887a470e24b85269dd33fcc6e11b7144d97b
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
